@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import {ContainerIndex} from './stylesIndex'
+
 ReactDOM.render(
   <React.StrictMode>
+    <ContainerIndex>
     <App />
+    </ContainerIndex>
   </React.StrictMode>,
   document.getElementById('root')
 );

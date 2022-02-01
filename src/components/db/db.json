@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alex",
+      "avatarUrl": "https://avatars.mds.yandex.net/i?id=42c4d537ec7c10e4bff607b7430c4014-5231154-images-thumbs&n=13",
+      "admin": true,
+      "bots": 2
+    },
+    {
+      "id": "2",
+      "name": "Nastia",
+      "avatarUrl": "https://avatars.mds.yandex.net/i?id=4b4bb3b2b9f08584d22218832aca0c9c-5239392-images-thumbs&n=13",
+      "admin": false,
+      "bots": 1
+    },
+    {
+      "id": "3",
+      "name": "Pasha",
+      "avatarUrl": "https://avatars.mds.yandex.net/i?id=6d035fe2bf3c7b6645ed9bb874f98dd4-5316110-images-thumbs&n=13",
+      "admin": false,
+      "bots": 2
+    },
+    {
+      "id": "4",
+      "name": "Anton",
+      "avatarUrl": "https://avatars.mds.yandex.net/i?id=ddad78795b61982b3ee44a8c2da8061a-5222323-images-thumbs&n=13",
+      "admin": false,
+      "bots": 1
+    },
+    {
+      "id": "5",
+      "name": "Artur",
+      "avatarUrl": "https://avatars.mds.yandex.net/i?id=2a00000179f37a2b4c21198403741de78b08-4117550-images-thumbs&n=13",
+      "admin": false,
+      "bots": 2
+    },
+    {
+      "id": "6",
+      "name": "Max",
+      "avatarUrl": "https://avatars.mds.yandex.net/i?id=71bd3f9d94f923da9a692e690c9e892e-5294555-images-thumbs&n=13",
+      "admin": false,
+      "bots": 3
+    },
+    {
+      "id": "7",
+      "name": "Misha",
+      "avatarUrl": "https://avatars.mds.yandex.net/i?id=0c47667e470abfe1ac0753d932022faa-5241446-images-thumbs&n=13",
+      "admin": false,
+      "bots": 2
+    },
+    {
+      "id": "8",
+      "name": "Vadim",
+      "avatarUrl": "https://avatars.mds.yandex.net/i?id=1b729227e9cbe7984b6b7efad3f7dcb1-4622572-images-thumbs&n=13",
+      "admin": false,
+      "bots": 3
+    },
+    {
+      "id": "9",
+      "name": "Arina",
+      "avatarUrl": "https://avatars.mds.yandex.net/i?id=d311f3e8b51e554addd3d36fdbabec6d-3976351-images-thumbs&n=13",
+      "admin": false,
+      "bots": 3
+    },
+    {
+      "id": "10",
+      "name": "Kate",
+      "avatarUrl": "https://avatars.mds.yandex.net/i?id=b9242ec81980a5b42d49d57c6b917119-3790382-images-thumbs&n=13",
+      "admin": false,
+      "bots": 3
+    }
+  ],
+  "bots": [
+    {
+      "id": "1",
+      "name": "Bot_Bill"
+    },
+    {
+      "id": "2",
+      "name": "Bot_Ilia"
+    },
+    {
+      "id": "3",
+      "name": "Bot_Sasha"
+    }
+  ],
+  "Id_Bot": "all"
+}
